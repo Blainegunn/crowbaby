@@ -1,0 +1,41 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  color: #413a3e;
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+}
+
+.logo {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: 10px auto;
+  border: 2px #413a3e solid;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.founder {
+  font-size: 20px;
+  display: inline-block;
+  margin: 5px;
+}
+
+.pp {
+  width: 100%;
+  max-width: 300px;
+  border: 2px #413a3e solid;
+}
